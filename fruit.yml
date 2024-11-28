@@ -1,0 +1,12 @@
+--
+-fruits:
+ -apple
+ -orange
+ -dryFruits:
+  -kismis
+  -kaju
+  -khajur
+
+-fruits form kashmir:
+ -name:
+   jammu
